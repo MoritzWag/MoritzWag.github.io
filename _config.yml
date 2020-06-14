@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am the best."
   location         : "Munich Germany"
-  email            : "moritzwagner95@hotmail.de
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
